@@ -1,0 +1,8 @@
+rahul age=29 banglore bought iphone on 12 jan 24 for rs 79,999
+ANITA, thirty four yrs, delhii, purchased samsung tv @ 55k on 05-02-24
+Customer: Mohan | Age: 141 | City: Chennai | Product: Laptop | Price: 62000 | Date: 2024/03/15
+Name: Rakesh | Age: -5 | City: Mumbai | Product: Headphones | Price: Rs. 2,999 | Date: 15th March 2024
+Suman (age 26) from Kolkata bought WashingMachine for ₹34,500 on 2024-13-01
+Priya | City: Pune | Product: Mobile | Price: 18999 | Date: 2024-04-10
+Amit, 32 yrs, Delhi, purchased AC @ fifty thousand on April 5 2024
+Customer: Neha | Age: 29 | City: Bengaluru | Product: Refrigerator | Price: 42000 | Date: 2024-02-30

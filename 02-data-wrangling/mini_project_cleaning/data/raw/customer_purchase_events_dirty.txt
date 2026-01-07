@@ -1,0 +1,8 @@
+Name: rahul age=25 city banglore bought iphone price 55k on 2024-01-05
+Ramesh, 32 yrs, Delhi purchased Samsung TV for ₹45,000 on 05/01/24
+anita age -5 from bengaluru bought laptop cost fifty thousand jan 7 2024
+Customer=Sunil age:45 city:Delhii product=AC price=60000 date=2024/01/08
+Meena 29 Chennai headphones ₹2,999 2024-01-09
+Arjun age=thirty four city=mumbai purchased washingmachine 32000 10 Jan 24
+NoName age=200 city=pune product=mobile price=15000 date=2024-01-11
+Ravi age=28 bangalore bought refrigerator ₹55,000 on jan 12 2024
